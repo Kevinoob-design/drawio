@@ -1,9 +1,48 @@
-<mxfile host="app.diagrams.net" modified="2023-05-30T20:51:13.736Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="rEWZJTuGtBk1ncXE5cRD" version="21.3.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-30T21:39:46.746Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="L77m1sKipNUc2h92EB71" version="21.3.6" type="github">
   <diagram name="Page-1" id="nG4e7N0qLoZxv2Oh2Jfd">
-    <mxGraphModel dx="1314" dy="842" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1383" dy="886" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Y9WInYze6emRyN7cUV4Y-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="Y9WInYze6emRyN7cUV4Y-3" target="Y9WInYze6emRyN7cUV4Y-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9WInYze6emRyN7cUV4Y-3" value="" style="group;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="19" y="230" width="790" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9WInYze6emRyN7cUV4Y-1" value="&lt;h1&gt;&lt;br&gt;&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="Y9WInYze6emRyN7cUV4Y-3">
+          <mxGeometry width="790" height="600" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9WInYze6emRyN7cUV4Y-2" value="&lt;h1&gt;Node.js&lt;/h1&gt;" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="Y9WInYze6emRyN7cUV4Y-3">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9WInYze6emRyN7cUV4Y-10" value="Node.js Standard Library&lt;br&gt;(Core Modules)" style="rounded=1;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="Y9WInYze6emRyN7cUV4Y-3">
+          <mxGeometry x="400" y="150" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9WInYze6emRyN7cUV4Y-20" value="Node.js Bindings / Addons&lt;br&gt;(JavaScript to C/C++)" style="rounded=1;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="Y9WInYze6emRyN7cUV4Y-3">
+          <mxGeometry x="10" y="150" width="380" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9WInYze6emRyN7cUV4Y-27" value="Node.js API (Actual JavaScript)" style="rounded=1;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="Y9WInYze6emRyN7cUV4Y-3">
+          <mxGeometry x="10" y="80" width="770" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9WInYze6emRyN7cUV4Y-28" value="" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="Y9WInYze6emRyN7cUV4Y-3">
+          <mxGeometry x="10" y="220" width="770" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9WInYze6emRyN7cUV4Y-29" value="Node.js Dependencies" style="rounded=0;whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="Y9WInYze6emRyN7cUV4Y-3">
+          <mxGeometry x="10" y="220" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9WInYze6emRyN7cUV4Y-13" value="&lt;meta charset=&quot;utf-8&quot;&gt;&lt;h1 style=&quot;border-color: rgb(0, 0, 0); color: rgb(240, 240, 240); font-family: Helvetica; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(42, 37, 47); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;&quot;&gt;Node.js App (JS files)&lt;/h1&gt;" style="whiteSpace=wrap;html=1;rounded=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="19" y="140" width="790" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9WInYze6emRyN7cUV4Y-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" edge="1" parent="1" source="Y9WInYze6emRyN7cUV4Y-1" target="Y9WInYze6emRyN7cUV4Y-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9WInYze6emRyN7cUV4Y-30" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="490" width="200" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="Y9WInYze6emRyN7cUV4Y-32" value="&lt;h1&gt;Operating System&lt;/h1&gt;" style="whiteSpace=wrap;html=1;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
+          <mxGeometry x="19" y="860" width="790" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
